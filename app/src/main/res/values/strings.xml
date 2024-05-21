@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Activity Result Lesson</string>
+    <string name="tx1AcM">главный экран</string>
+    <string name="tx1Ac1">первый экран</string>
+    <string name="tx3Ac1">вопрос</string>
+    <string name="txPl1AcM">задать вопрос</string>
+    <string name="txPl1Ac1">ввести ответ</string>
+    <string name="bt1AcM">отправить запрос</string>
+    <string name="bt1Ac1">отправить ответ</string>
+</resources>
